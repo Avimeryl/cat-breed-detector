@@ -1,0 +1,1 @@
+This web app allows users to upload an image of a cat and instantly predicts its breed using a pretrained deep learning model from Hugging Face. After uploading a JPG, JPEG, or PNG image, the app displays the picture and, with a single click, analyzes it to identify the most likely cat breed along with a confidence score. 
